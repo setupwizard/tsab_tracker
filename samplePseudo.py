@@ -31,3 +31,4 @@ def getNPC(name):
             print npc["name"]+"\n"
             for relationship in npc["relationships"]:
                 print relationship+"\n"
+change change change
