@@ -1,6 +1,7 @@
 import json
 import os
 
+###to-do: figure out what classes and all that do, add in logic, test run###
 class npc:
     def __init__(self, name, relationships):
     self.name = name
@@ -8,10 +9,10 @@ class npc:
         self.relationships = relationships
 
     def addRelationship(self, datastore):
-        <add in some logic to ad npcs to relationships>
+        #add in some logic to ad npcs to relationships#
 
     def remRelationship(self, datastore):
-        <more logic to remove relationship>
+        #more logic to remove relationship#
 
 
 def addNPC():
@@ -31,4 +32,4 @@ def getNPC(name):
             print npc["name"]+"\n"
             for relationship in npc["relationships"]:
                 print relationship+"\n"
-change change change
+
