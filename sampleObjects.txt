@@ -1,0 +1,11 @@
+name: First To Walk
+gender: F
+appearance: Black fur with impala, points, roan, sooty, underbelly, zebra, and choker. Carries heartfire and pattern1.
+personality traits: diplomatic, outgoing, positive, 
+kin: Guardian of Root
+
+name: Speaks To Breeze
+gender: M
+appearance: twig with nyala, points, roan, sooty, underbelly, and zebra. Carries pattern 2 and heartfire.
+personality traits: shy, neurotic, polite,
+kin: Guardian of Oak, Scorch, and Pale

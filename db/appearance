@@ -1,0 +1,11 @@
+[{"name": "furry",
+"bonus": {
+	"type": "sexy",
+	"value": 5
+	}
+},{"name": "underbelly",
+"bonus": {
+	"type": "appendeges",
+	"value": 6
+	}
+}]
