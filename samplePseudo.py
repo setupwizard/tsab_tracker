@@ -4,18 +4,18 @@ import os
 ###to-do: figure out what classes and all that do, add in logic, test run###
 class npc:
     def __init__(self, name, relationships):
-    self.name = name
+        self.name = name
     if not relationships:
         self.relationships = relationships
 
     def addRelationship(self, datastore):
-        #add in some logic to ad npcs to relationships#
+        relationship = input()
+        relationship = list.append()
 
     def remRelationship(self, datastore):
         #more logic to remove relationship#
 
-
-def addNPC():
+    def addNPC():
     os.popen(file with datastore information)
     username = input("Username")
     relationship = []
@@ -24,8 +24,8 @@ def addNPC():
         relationship.add(input("relationship?"))
         if not relationship:
             looprelationship = false
-    
-def getNPC(name):
+
+    def getNPC(name):
     npcs = os.popen(file datastore)
     for npc in npcs:
         if npc["name"] == name:
